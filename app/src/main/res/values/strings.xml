@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleYandexBulb</string>
+    <string name="bulb_color_hint">Color</string>
+    <string name="color_example">White</string>
+    <string name="yandex">Yandex</string>
+    <string name="bulb">Bulb</string>
+</resources>
